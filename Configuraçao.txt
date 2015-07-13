@@ -1,2 +1,2 @@
 Alterar no arquivo config a chave da Api key Gcm do google
-Alterar o arquvio db com as configurações da Database
+Alterar o arquivo db com as configuraÃ§Ãµes da Database
